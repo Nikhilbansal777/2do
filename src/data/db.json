@@ -1,0 +1,52 @@
+{
+    "careers": [
+        {
+            "id": 1,
+            "title":"Senior Software Engineer",
+            "Salary": 50000,
+            "Location": "GJ"
+        },
+        {
+            "id": 2,
+            "title":"Senior Software Engineer",
+            "Salary": 20000,
+            "Location": "TN"
+        },
+        {
+            "id": 3,
+            "title":"Senior Software Engineer",
+            "Salary": 30000,
+            "Location": "AP"
+        },        {
+            "id": 4,
+            "title":"Senior Software Engineer",
+            "Salary":40000,
+            "Location": "KL"
+        },        {
+            "id": 5,
+            "title":"Senior Software Engineer",
+            "Salary": 60000,
+            "Location": "DL"
+        },        {
+            "id": 6,
+            "title":"Senior Software Engineer",
+            "Salary": 70000,
+            "Location": "MH"
+        },        {
+            "id": 7,
+            "title":"Senior Software Engineer",
+            "Salary": 80000,
+            "Location": "UP"
+        },        {
+            "id": 8,
+            "title":"Senior Software Engineer",
+            "Salary": 90000,
+            "Location": "MP"
+        },        {
+            "id": 9,
+            "title":"Senior Software Engineer",
+            "Salary": 150000,
+            "Location": "RJ"
+        }
+    ]
+}
